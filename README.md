@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <img align="center" 
+  <img alt='readme-stats'
+       class="center" 
        src="https://github-readme-stats.vercel.app/api?username=ametzamaldonado&show_icons=true&theme=dracula" />
 
 
-  <img align="center" 
+  <img alt='language-stats'
+       class="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ametzamaldonado&layout=compact&theme=dracula" />
 
 
