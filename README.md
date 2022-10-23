@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Ametza Maldonado 👋
 
 - 🔭 I’m currently working on a personal project to create a 'One Piece' inspried API.
-- 📫 How to reach me: <a href='mailto: ametza.maldonado@gmail.com'>email me</a> or via <a href='https://www.linkedin.com/in/ametzayin-maldonado-3528b6124/'>LinkedIn</a>!
+- 📫 How to reach me: <a href='mailto: ametza.maldonado@gmail.com'>email me</a> or via <a href='https://www.linkedin.com/in/ametzayin-maldonado-3528b6124/' target="_blank" rel="noopener noreferrer">LinkedIn</a>!
 - 😄 Pronouns: she/her
 
   <img alt='readme-stats'
